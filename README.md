@@ -1,4 +1,6 @@
 # Algobreizh_JAVA
+
+Situation professionnelle :
 Réalisation d’une solution applicative en Java pour la gestion du suivi clients
 
 Contexte :
